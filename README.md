@@ -12,6 +12,8 @@ This repo is the implementation of
 2.train_ohaze和test_ohaze都是针对ohaze数据集，test_self针对自己搜集数据，其中可以选择四种模型，需要根据不同的模型改代码中的“net = ”部分。
 3.model文件中convnext_base需要提前下载缓存后，修改加载路径
 
+模型权重下载：链接：https://pan.baidu.com/s/1Vj1_4E13RkCdPaw_mVLJWA  提取码：7f1e
+
 ## Results
 
 The dehazing results can be found at 
